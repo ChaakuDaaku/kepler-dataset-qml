@@ -29,3 +29,10 @@ Data reuploading concept uses a single qubit to represent arbitrarily high dimen
 In the processing of training the model we used Variational Quantum Circuit for Data reuploading in a five layered quantum network. Each layer has been trained separately using the dataset. Mean-squared-error has been used as the cost function for training the network. 
 
 We performed the simulation of the proposed Quantum network using (i) 4 features and to test the efficiency of the network (ii) 6 features. It was found the 4 features were giving better accuracy and loss values than the network using 6 features. The overall speed of the Quantum network was much faster than its classical counterparts
+
+--------
+
+## References
+1. Comparing Classification Models on Kepler Data by Rohan Saha - rsaha@ualberta.ca - (https://arxiv.org/abs/2101.01904)
+2. Data re-uploading for a universal quantum classifier - Adrián Pérez-Salinas, Alba Cervera-Lierta, Elies Gil-Fuster, José I. Latorre - (https://arxiv.org/abs/1907.02085)
+3. Layerwise learning for quantum neural networks - Andrea Skolik,Jarrod R. McClean, Masoud Mohseni,Patrick van der Smagt,and Martin Leib - (https://arxiv.org/abs/2006.14904)
